@@ -320,12 +320,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1214932683}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5770b9c9c13cd914b947b6c69a19b48c, type: 3}
+  m_Script: {fileID: 11500000, guid: fb86f37bca8ec804da45e119f261c85f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   width: 20
   depth: 20
-  cube: {fileID: 3243045888262598218, guid: a54ceddf11021244f8685d551524d1f6, type: 3}
 --- !u!4 &1214932685
 Transform:
   m_ObjectHideFlags: 0
